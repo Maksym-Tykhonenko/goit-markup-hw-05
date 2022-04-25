@@ -506,6 +506,7 @@ text-transform: uppercase;
   line-height: 2.18;
   color: rgba(255, 255, 255, 1);
   margin-bottom: 20px;
+  text-transform: uppercase;
 }
 .foot-social-list {
   width: 206px;
@@ -525,7 +526,7 @@ text-transform: uppercase;
   transition-timing-function: var(--primary-cubic-bezier);
 }
 .foot-soc-link {
-fill: #ffffff;
+fill: #ffffff;/*
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -535,7 +536,7 @@ fill: #ffffff;
   background: rgba(255, 255, 255, 0.1);
   transition-property: background-color;
   transition-duration: 250ms;
-  transition-timing-function: var(--primary-cubic-bezier);
+  transition-timing-function: var(--primary-cubic-bezier);*/
 }
 .foot-social-item:not(:last-child) {
   margin-right: 10px;
